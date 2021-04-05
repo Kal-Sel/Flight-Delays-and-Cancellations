@@ -20,4 +20,6 @@ Think about if I work at an airline and I want to decrease delays. What part of 
 
 I could have also come up with my own question!
 
-As I was working with the data, I came up with a question I was curious about and it could be answered from the data. I've build a dashboard to answer my question and lead viewers to that answer.
+As I was working with the data, I came up with a question I was curious about and it could be answered from the data. I've build a dashboard to answer my question and lead viewers to that answer.  
+
+The Dashboard can be accessed [here](https://public.tableau.com/profile/selmirkalender#!/vizhome/DelaysandCancellations_16176198978390/FlightDelaysandCancellations)!
